@@ -7,4 +7,4 @@ Open source repository to build a Simple three - stage pipeline CPU, based on MI
 PDF为设计图
 
 ## 声明
-欢迎参考和star，不要抄袭
+欢迎学弟学妹参考和star，不要抄袭
